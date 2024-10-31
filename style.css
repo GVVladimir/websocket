@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    width: 420px;
+    height: 430px;
+    box-shadow: 10px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+  }
+
+  div{
+    margin-bottom: 20px;
+    width: 320px;
+    height: 320px;
+    overflow-y: auto;
+  }
